@@ -1,31 +1,23 @@
-📌 HTML Exercises
-This repository contains various exercises to practice HTML fundamentals.
+## 📌 HTML Exercises
 
-📖 Exercise List
-1️⃣ HTML Basics
-📄 Learn the basic structure and elements of HTML.
-🔗 View Exercise
+### 🔹 HTML Basics
 
-2️⃣ Forms - Part 1
-📝 Practice creating HTML forms with input fields.
-🔗 View Exercise
+- 📄 [View Exercise](https://neilbernard-sscgi.github.io/The-Complete-Guide-to-HTML-exercise/html-basics.html)
 
-3️⃣ Forms - Part 2
-🎯 Advance your form-building skills with additional form elements.
-🔗 View Exercise
+### 🔹 Forms
 
-4️⃣ Text Elements
-✍️ Explore different text formatting elements in HTML.
-🔗 View Exercise
+- 📝 [Forms - Part 1](https://neilbernard-sscgi.github.io/The-Complete-Guide-to-HTML-exercise/forms-exercise/formsexercise.html)
+- 🎯 [Forms - Part 2](https://neilbernard-sscgi.github.io/The-Complete-Guide-to-HTML-exercise/FormsPart2Exercise.html)
 
-5️⃣ Text Elements - Part 2
-📌 Further practice with text formatting and structuring content.
-🔗 View Exercise
+### 🔹 Text Elements
 
-6️⃣ Table Exercise
-📊 Learn how to create and structure tables in HTML.
-🔗 View Exercise
+- ✍️ [Text Elements](https://neilbernard-sscgi.github.io/The-Complete-Guide-to-HTML-exercise/TextElements.html)
+- 📌 [Text Elements - Part 2](https://neilbernard-sscgi.github.io/The-Complete-Guide-to-HTML-exercise/TextElements2.html)
 
-7️⃣ Links and Images
-🌐 Work with hyperlinks and images in HTML pages.
-🔗 View Exercise
+### 🔹 Tables
+
+- 📊 [Table Exercise](https://neilbernard-sscgi.github.io/The-Complete-Guide-to-HTML-exercise/table-exercise/)
+
+### 🔹 Links & Images
+
+- 🌐 [Links and Images](https://neilbernard-sscgi.github.io/The-Complete-Guide-to-HTML-exercise/links-and-images/home.html)
